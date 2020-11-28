@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-![alt text](20200915_221814.jpg)
-
 <p align="center">
-  <img src="./20200915_221814.jpg">
+  <img src="https://github.com/faramarzQ/faramarzq/blob/main/20201128_114236.jpg">
 </p>
 
 I'm student of software engineering at university of Kurdistan
