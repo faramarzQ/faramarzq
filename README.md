@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text](https://github.com/faramarzQ/faramarzq/delete/main/20200915_221814.jpg)
+
 I'm student of software engineering at university of Kurdistan
 
 i have experience in software development on Laravel and vue.js at Snaagrin co and Razi university,   
