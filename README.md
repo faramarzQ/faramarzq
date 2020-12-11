@@ -6,9 +6,9 @@
 
 I'm student of software engineering at university of Kurdistan
 
-i have experience in software development on Laravel and vue.js using Agile at Snaagrin co and Razi university,   
-also i'm fimiliar with programming in python for academic purposes.
+I have experience in software development using Agile at Snaagrin co and Razi university,   
+mostly on Laravel and vue.js, partialy on Node.js and python.
 
 I'm intrested in clean software development principles and methodologies,    
-big data, machine learning, recommending systems studies in Data enginnering,   
-and a point where these two contact each other.   
+artificial intelligence, machine learning, recommender systems studies in Data enginnering,   
+and a point where these two (Software and data) contact each other.   
