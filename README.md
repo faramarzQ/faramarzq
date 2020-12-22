@@ -10,5 +10,5 @@ I have experience in software development using Agile at Snaagrin co and Razi un
 mostly on Laravel and vue.js, partialy on Node.js and python.
 
 I'm intrested in clean software development principles and methodologies,    
-artificial intelligence, machine learning, recommender systems studies in Data enginnering,   
+artificial intelligence, machine learning, recommender systems studies in Data engineering,   
 and a point where these two (Software and data) contact each other.   
