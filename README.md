@@ -45,6 +45,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
 ![](https://img.shields.io/badge/ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=blue)
 
 
+
 <h2>Some open source projects</h2>
 
 <table>
@@ -52,6 +53,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
         <tr border: none;>
             <td><b>🗃️ Projects</b></td>
             <td><b>📚 Descriptions</b></td>
+            <td><b>🎒 Tech Stack</b></td>
         </tr>
     </thead>
     <tbody>
@@ -64,6 +66,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
             <td>
                 <p margin="auto">A Resource allocation application using Machine learning technique Assisted by Cloud Computing implemented in Python</p>
             </td>
+            <td> Python </td>
         </tr>
         <tr>
             <td>
@@ -74,6 +77,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
             <td>
                 <p margin="auto">My bachelor's final project on analyzing twitter's data and detecting tweet's topic using python</p>
             </td>
+            <td> Python </td>
         </tr>
         <tr>
             <td>
@@ -84,6 +88,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
             <td>
                 <p margin="auto">A graphQL application on Golang using Mysql and Gorm</p>
             </td>
+            <td> Golang </td>
         </tr>
         <tr>
             <td>
@@ -94,6 +99,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
             <td>
                 <p margin="auto">A minimal web application built on Golang's Gin framework</p>
             </td>
+            <td> Golang </td>
         </tr>
         <tr>
             <td>
@@ -104,6 +110,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
             <td>
                 <p margin="auto">A gRPC base server-client arch application based on Golang</p>
             </td>
+            <td> Golang </td>
         </tr>
         <tr>
             <td>
@@ -114,6 +121,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
             <td>
                 <p margin="auto">Implementations of different communication types of RabbitMQ using Golang</p>
             </td>
+            <td> Golang </td>
         </tr>
         <tr>
             <td>
@@ -124,6 +132,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
             <td>
                 <p margin="auto">Demonestrator of kubernetes ConfigMap and Secret resources</p>
             </td>
+            <td> Kubernetes </td>
         </tr>
         <tr>
             <td>
@@ -134,6 +143,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
             <td>
                 <p margin="auto">Demonstrating writing and reading on Kubernetes' volume using two Golang servers</p>
             </td>
+            <td> Kubernetes </td>
         </tr>
         <tr>
             <td>
@@ -142,8 +152,9 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
                 </p>
             </td>
             <td>
-                <p margin="auto">Nearest hospital finder between a list of hospitals in a map, implemented with dijkstra on javascript</p>
+                <p margin="auto">Nearest hospital finder between a list of hospitals in a map, implemented with dijkstra</p>
             </td>
+            <td> Javascript </td>
         </tr>
         <tr>
             <td>
@@ -154,6 +165,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
             <td>
                 <p margin="auto">Scheduler of multi-tasks to multi-machines </p>
             </td>
+            <td> Python </td>
         </tr>
     </tbody>
 </table>
