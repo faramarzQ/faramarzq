@@ -11,8 +11,6 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
 
 
 <hr>
-
-</br>
 <h2>Tech Stack</h2>
 
 ![](https://img.shields.io/badge/Code-informational?style=flat&logoColor=red&color=red)
@@ -48,8 +46,6 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
 ![](https://img.shields.io/badge/ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=blue)
 
 <hr>
-
-</br>
 
 <h2>Some open source projects</h2>
 
@@ -166,7 +162,6 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
 
 
 <hr>
-</br>
 
 <h2>Connect with me</h2>
 
