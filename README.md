@@ -1,10 +1,12 @@
-As a Web Developer and Master degree's Student of Software Engineering, having over 4 years of experience in web
-application development and programming using different technologies including Golang, Laravel, PostgreSQL, etc. I am
-persistance in implementing clean coded, documented, maintainable and scalable SaaS applications.    
-I am passionate about developing and learning mostly on the back-end side of a web app and dealing with problems, issues, algorithms and patterns
+Hi there! 
+
+I am Faramarz Qoshchi,
+
+I'm a MS.c degree educated Software Engineer with over 4 years of experience in web application development and programming using different technologies including Golang, Laravel, PostgreSQL, etc with persistency in implementing clean coded, documented, maintainable and scalable SaaS applications.    
+Also passionate about developing and learning mostly on the back-end side of a web app and dealing with problems, issues, algorithms and patterns
 My master degree's thesis is focused on Serverless computing on Microservice architecture using Kuberentes along with
 machine learning.    
-I'm also full-time employed at Zeeg company at Germany, Berlin, as a Full Stack developer with focus on the Back End.
+Currently employed as a Full Stack developer with focus on the Back End at Zeeg company at Germany, Berlin.    
 Find out more about me on my <a href="faramarzq.github.io/">website</a>.
 
 
