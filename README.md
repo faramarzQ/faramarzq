@@ -7,6 +7,7 @@ Also passionate about developing and learning mostly on the back-end side of a w
 My master degree's thesis is focused on Serverless computing on Microservice architecture using Kuberentes along with
 machine learning.    
 Currently employed as a Full Stack developer with focus on the Back End at Zeeg company at Germany, Berlin.    
+
 Find out more about me on my <a href="faramarzq.github.io/">website</a>.
 
 
