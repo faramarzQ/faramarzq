@@ -24,7 +24,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Framework-informational?style=flat&logoColor=red&color=red)
-![](https://img.shields.io/badge/Gin-informational?style=flat&logo=gin&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Gin-informational?style=flat&logo=go&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Gorm-informational?style=flat&logo=go&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=blue)
