@@ -183,6 +183,3 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
     <a href="https://stackoverflow.com/users/7354378/faramarz" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="4214976" height="30" width="40" /></a>
-    <a href="https://instagram.com/faramarz_q" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="gautamkrishnar" height="30" width="40" /></a>
