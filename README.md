@@ -18,10 +18,12 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 
-![](https://img.shields.io/badge/Database-informational?style=flat&logoColor=red&color=red)
-![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=blue)
+![](https://img.shields.io/badge/DB|Cache-informational?style=flat&logoColor=red&color=red)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Elastic Search-informational?style=flat&logo=redis&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=blue)
+
 
 ![](https://img.shields.io/badge/Framework-informational?style=flat&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Gin-informational?style=flat&logo=go&logoColor=white&color=blue)
