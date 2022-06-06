@@ -21,7 +21,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
 ![](https://img.shields.io/badge/DB|Cache-informational?style=flat&logoColor=red&color=red)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Elastic Search-informational?style=flat&logo=redis&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Elastic_Search-informational?style=flat&logo=elastic-search&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=blue)
 
 
