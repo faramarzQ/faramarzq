@@ -3,7 +3,7 @@ Hi there!
 I am Faramarz Qoshchi,
 
 A MS.c degree educated Software Engineer with over 4 years of experience in web application development and programming using different technologies including Golang, Laravel, PostgreSQL, etc with persistency in implementing clean coded, documented, maintainable and scalable SaaS applications.    
-Also passionate about developing and learning mostly on the back-end side of a web app and dealing with problems, issues, algorithms and patterns
+Also passionate about developing and learning mostly on the back-end side of a web app and dealing with problems, issues, algorithms and patterns.
 My master degree's thesis is focused on Serverless computing on Microservice architecture using Kuberentes along with
 machine learning.    
 
