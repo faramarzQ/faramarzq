@@ -66,7 +66,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
                 </p>
             </td>
             <td>
-                <p margin="auto">A Resource allocation application using machine learning technique assisted by cloud computing implemented in Python</p>
+                <p margin="auto">A resource allocation application using machine learning technique assisted by cloud computing implemented in Python</p>
             </td>
             <td> Python </td>
         </tr>
