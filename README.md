@@ -44,7 +44,7 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
 ![](https://img.shields.io/badge/OS-informational?style=flat&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Debian-informational?style=flat&logo=debian&logoColor=white&color=blue)
-![](https://img.shields.io/badge/ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=blue)
 
 
 
