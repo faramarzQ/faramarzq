@@ -62,11 +62,22 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
         <tr>
             <td>
                 <p>
+                    <a href="https://github.com/faramarzQ/energy-aware-k8s-serverless-scheduler">energy_aware_k8s_serverless_scheduler</a>
+                </p>
+            </td>
+            <td>
+                <p margin="auto">An energy-aware custom Kubernetes scheduler for Serverless environment using the K8s Scheduling Framework to increase availability</p>
+            </td>
+            <td> Go, Kubernetes </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
                     <a href="https://github.com/faramarzQ/resource_allocation_using_machine_learning">resource_allocation_using_machine_learning</a>
                 </p>
             </td>
             <td>
-                <p margin="auto">A resource allocation application using machine learning technique assisted by cloud computing implemented in Python</p>
+                <p margin="auto">A resource allocation application using machine learning technique assisted by cloud computing implemented </p>
             </td>
             <td> Python </td>
         </tr>
