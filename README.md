@@ -10,6 +10,22 @@ machine learning.
 Find out more about me on my <a href="faramarzq.github.io/">website</a>.
 
 
+<h2>Connect with me</h2>
+
+<p align="left">
+    <a href="https://twitter.com/qfaramarz" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="gautamkrishnar" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/faramarz-q" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="gautamkrishnar" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/7354378/faramarz" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="4214976" height="30" width="40" /></a>
+    <a href="https://soundcloud.com/faramarz_q" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg"
+            alt="4214976" height="30" width="40" /></a>
+
 <h2>Tech Stack</h2>
 
 ![](https://img.shields.io/badge/Code-informational?style=flat&logoColor=red&color=red)
@@ -182,17 +198,3 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
         </tr>
     </tbody>
 </table>
-
-
-<h2>Connect with me</h2>
-
-<p align="left">
-    <a href="https://twitter.com/qfaramarz" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="gautamkrishnar" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/faramarz-q" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="gautamkrishnar" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/7354378/faramarz" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="4214976" height="30" width="40" /></a>
