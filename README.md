@@ -2,13 +2,8 @@ Hi there!
 
 I am Faramarz Qoshchi,
 
-A MS.c degree educated Software Engineer with over 4 years of experience in web application development and programming using different technologies including Golang, Laravel, PostgreSQL, etc with persistency in implementing clean coded, documented, maintainable and scalable SaaS applications.    
-Also passionate about developing and learning mostly on the back-end side of a web app and dealing with problems, issues, algorithms and patterns.
-My master degree's thesis is focused on Serverless computing on Microservice architecture using Kuberentes along with
-machine learning.    
-
-Find out more about me on my <a href="faramarzq.github.io/">website</a>.
-
+A MS.c degree educated Software Engineer with over 5 years of experience in web application development and programming using different technologies including Golang, Laravel, PostgreSQL, etc with persistency in implementing clean coded, documented, maintainable and scalable SaaS applications.    
+Connect with me and checkout my open-sourced projects
 
 <h2>Connect with me</h2>
 
@@ -22,43 +17,6 @@ Find out more about me on my <a href="faramarzq.github.io/">website</a>.
     <a href="https://soundcloud.com/faramarz_q" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg"
             alt="4214976" height="30" width="40" /></a>
-
-<h2>Tech Stack</h2>
-
-![](https://img.shields.io/badge/Code-informational?style=flat&logoColor=red&color=red)
-![](https://img.shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=white&color=blue)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=blue)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-
-![](https://img.shields.io/badge/DB|Cache-informational?style=flat&logoColor=red&color=red)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Elastic_Search-informational?style=flat&logo=elastic-search&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=blue)
-
-
-![](https://img.shields.io/badge/Framework-informational?style=flat&logoColor=red&color=red)
-![](https://img.shields.io/badge/Gin-informational?style=flat&logo=go&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Gorm-informational?style=flat&logo=go&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Jquery-informational?style=flat&logo=jquery&logoColor=white&color=blue)
-
-![](https://img.shields.io/badge/Tool-informational?style=flat&logoColor=red&color=red)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
-![](https://img.shields.io/badge/gRPC-informational?style=flat&logo=google&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Graphql-informational?style=flat&logo=graphql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Rabbitmq-informational?style=flat&logo=rabbitmq&logoColor=white&color=blue)
-
-![](https://img.shields.io/badge/OS-informational?style=flat&logoColor=red&color=red)
-![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Debian-informational?style=flat&logo=debian&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=blue)
-
 
 
 <h2>Some open source projects</h2>
