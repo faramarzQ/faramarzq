@@ -2,8 +2,9 @@ Hi there!
 
 I am Faramarz Qoshchi,
 
-A MS.c degree educated Software Engineer with over 5 years of experience in web application development and programming using different technologies including Golang, Laravel, PostgreSQL, etc with persistency in implementing clean coded, documented, maintainable and scalable SaaS applications.    
-Connect with me and checkout my open-sourced projects
+A MS.c degree educated Software Engineer with over 5 years of experience in web application development and programming using different technologies including Golang, Laravel, PostgreSQL, etc with persistency in implementing clean coded, documented, maintainable and scalable SaaS applications.     
+
+Connect with me and checkout my open-sourced projects.
 
 <h2>Connect with me</h2>
 
