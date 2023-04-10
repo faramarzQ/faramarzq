@@ -15,9 +15,7 @@ Connect with me and checkout my open-sourced projects.
     <a href="https://stackoverflow.com/users/7354378/faramarz" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="4214976" height="30" width="40" /></a>
-    <a href="https://soundcloud.com/faramarz_q" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg"
-            alt="4214976" height="30" width="40" /></a>
+</p>
 
 
 <h2>Some open source projects</h2>
